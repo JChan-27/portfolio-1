@@ -61,11 +61,11 @@ header {
 
 #header-contact a {
     text-decoration: none;
-    color: rgb(67, 66, 66)
+    color: #025669
 }
 
 #header-contact a:hover {
-    color: #1e6554;
+    color: #025669;
 }
 
 #header-contact i {
@@ -148,7 +148,7 @@ main {
     margin: 5px;
     margin-top: 40px;
     text-decoration: None;
-    color:rgb(246, 239, 239);
+    color: #025669;
 }
 
 .link-btn:hover {
